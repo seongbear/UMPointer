@@ -1,6 +1,3 @@
-## Video
-
-
 ## Tech Stack 
 
 ```sh
